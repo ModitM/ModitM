@@ -3,4 +3,4 @@
 - 💻 Programming Languages: Python | SQL
 - 👨 Tools: MS-Excel | MSSQL | Jupyter | Google Colab 
 - 📔 Python libraries: Numpy | Pandas | Matplotlib | Seaborn | Scikit-learn | Pingouin
-- 👀 I'm looking for opportunities in various domains of Data Analytics
+- 👀 I'm looking for opportunities in various domains of Data Analytics.
